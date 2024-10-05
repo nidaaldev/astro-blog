@@ -15,7 +15,7 @@ To run the blog locally:
 git clone https://github.com/nidaaldev/astro-blog.git
 
 # Navigate into the directory
-cd your-blog
+cd astro-blog
 
 # Install dependencies
 npm install
