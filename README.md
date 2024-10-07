@@ -2,6 +2,10 @@
 
 Welcome to **My Astro Blog**, a minimalistic and fast blog powered by [Astro](https://astro.build/) 🚀.
 
+## 🚧 WIP (Work In Progress)
+
+This project is currently a **Work In Progress**.
+
 ## 🌍 Live Demo
 
 Check out the live site here: [My Astro Blog](https://blognidaldev.netlify.app/)
